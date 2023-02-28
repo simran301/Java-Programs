@@ -3,6 +3,10 @@ This file include all the Java Programs from basic to advance covering all the t
 
 ---------------------KEY POINTS:------------------ 
 
+Java is a case sensitive language
+
+clear command is use to clear the terminal
+
 Golden rule- Use smallest amount of memoryas possible
 8 Bits = 1 Byte
 
