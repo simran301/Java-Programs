@@ -28,6 +28,6 @@ Here there are 2 parts to a class:- 1. class keyword
                                     
 Our java classname should be same as our filename. The main() method in Java is the entry point of the java application. In System.out.println(); code, println() is a function which prints a message to the console, in parenthesis we write the message that we want to print, semi-colon means end of statement& it is very important to put semi-colon. if we forget to put semi-colon then our code will not run i.e. it will throw an error.
 
-There are 2 commands we need to run our code/application:- 1) javac - command use to compile the code 
-                                                           2) java -  command use to run the compiled code
+There are 2 commands we need to run our code/application:- 1) javac - command use to compile the code => javac <filename>.java
+                                                           2) java -  command use to run the compiled code => java <filename>
            
