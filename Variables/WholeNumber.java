@@ -1,3 +1,5 @@
+// long :- can store numbers upto 9 quintillion
+
 public class WholeNumber 
 {
     public static void main(String[] args) 
