@@ -12,4 +12,5 @@ public class WholeNumber
     }    
 }
 
-// Here in the above program it is really hard to read the digits or we can say it's really hard to read Zeros. What we can do is we can put underscore before every 3 zeros & these underscores doesn,t change anything.
+/* Here in the above program it is really hard to read the digits or we can say it's really hard to read Zeros. 
+What we can do is we can put underscore before every 3 zeros & these underscores doesn't change anything. */
