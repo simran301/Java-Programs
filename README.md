@@ -3,7 +3,7 @@ This file include all the Java Programs from basic to advance covering all the t
 
 ---------------------KEY POINTS:------------------ 
 
-Java is a case sensitive language
+Java is a case sensitive language. Wite the class name in CamelCase(UpperCamelCase) & always write variables name in lowerCase
 
 clear command is use to clear the terminal
 
