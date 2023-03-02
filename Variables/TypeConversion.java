@@ -13,3 +13,4 @@ public class TypeConversion
 }
 
 // Here in this program the real answer of purchaseBlockOfCheese/ants will print as a result because we have changed/convert this operation from integer(int) data type to double data type.
+// Here the output 5.0E -4 means five times ten to the negative four or 0.0005
